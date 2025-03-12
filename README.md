@@ -4,7 +4,7 @@ Customer Data Analysis with Python code using Pandas
 
 ## Files
 
-`Cust_Purch_FakeData.csv:` Raw data file
+`Cust_Purch_FakeData.csv:` Raw data file<br>
 `Cust_Purch_Data_Exercise.ipynb:` Python code file
 
 ## Column Name
