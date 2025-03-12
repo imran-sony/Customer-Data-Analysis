@@ -1,6 +1,6 @@
-# Customer Data Analysis
+# Customer Purchase Data Analysis
 
-Customer Data Analysis with Python code using Pandas
+Customer Purchase Data Analysis with Python code using Pandas
 
 ## Files
 
